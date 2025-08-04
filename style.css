@@ -1,8 +1,10 @@
 body{
     color:white;
     background:rgba(195, 203, 204, 1);
+    margin:0px
 }
 
 header{
     border-bottom:solid 2px rgba(195, 203, 204, 1)
+    margin:20px
 }
