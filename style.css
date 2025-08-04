@@ -13,7 +13,7 @@ header{
 }
 
 section{
-    background:rgb(rgb(52, 147, 156))
+    background:rgb(rgb(52, 147, 156));
     padding-bottom:80px;
     padding-top:80px;
     display:flex;
