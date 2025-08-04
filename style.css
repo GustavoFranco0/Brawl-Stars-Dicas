@@ -5,9 +5,13 @@ body{
 }
 
 header{
-    border-bottom:solid 2px rgba(195, 203, 204, 1);
-    margin:20px;
+    border-bottom:solid 2px rgb(218, 238, 240);
     padding: 20px;
     font-size:32px;
     color: rgb(rgb(50, 211, 226));
 }
+
+section{
+    background: rgb(98, 125, 127);
+}
+
