@@ -1,15 +1,15 @@
 body{
     color:white;
-    background:gray;
+    background: rgb(15,135,156);
     margin:0px;
     font-family: "Anton", sans-serif;
 }
 
 header{
-    border-bottom:solid 2px grey;
+    border-bottom:solid 2px rgb(15, 135, 156);
     padding: 20px;
     font-size:32px;
-    color:whitesmoke;
+    color:white;
 }
 
 section{
