@@ -1,6 +1,6 @@
 body{
     color:white;
-    background:rgb(218, 238, 240);
+    background:rgb(2, 72, 78);
     margin:0px;
     font-family: "Anton", sans-serif;
 }
@@ -9,11 +9,11 @@ header{
     border-bottom:solid 2px rgba(195, 203, 204, 1);
     padding: 20px;
     font-size:32px;
-    color: rgb(rgb(50, 211, 226));
+    color: rgb(rgb(25, 87, 9));
 }
 
 section{
-    background:rgb(rgb(52, 147, 156));
+    background:rgb(rgb(19, 86, 92));
     padding-bottom:80px;
     padding-top:80px;
     display:flex;
