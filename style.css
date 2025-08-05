@@ -1,15 +1,15 @@
 body{
     color:white;
-    background:grey;
+    background:cornflowerblue;
     margin:0px;
     font-family: "Anton", sans-serif;
 }
 
 header{
-    border-bottom:solid 2px rgba(195, 203, 204, 1);
+    border-bottom:solid 2px rgb(27, 143, 158);
     padding: 20px;
     font-size:32px;
-    color:darkcyan;
+    color:whitesmoke;
 }
 
 section{
