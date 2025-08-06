@@ -12,6 +12,12 @@ header{
     color:white;
 }
 
+title{
+    padding-left:20px;
+    padding-right:20px;
+}
+
+
 .chamada{
     background:rgb(2, 172, 172);
     padding-bottom:80px;
