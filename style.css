@@ -22,9 +22,9 @@ h8{
 }
 
 .bslogo{
-    height:100px;
-    justify-content: center;
-    align-items: center;
+    max-width: 150px;
+      height: auto;
+      border-radius: 8px;
 }
 
 .chamada{
