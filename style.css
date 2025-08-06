@@ -16,15 +16,15 @@ h8{
     padding-left:20px;
     padding-right:20px;
     margin:50px;
-     display:flex;
-    justify-content:center;
-     align-items: center;
+      display: flex;
+      align-items: center;  /* alinha imagem e texto verticalmente */
+      gap: 15px;            /* espaçamento entre imagem e texto */
 }
 
 .bslogo{
-    display: flex;
-      align-items: center;  /* alinha imagem e texto verticalmente */
-      gap: 15px;            /* espaçamento entre imagem e texto */
+    max-width: 150px;
+      height: auto;
+      border-radius: 8px;
 }
 
 .chamada{
