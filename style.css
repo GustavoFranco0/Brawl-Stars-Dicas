@@ -22,9 +22,9 @@ h8{
 }
 
 .bslogo{
-    max-width: 150px;
-      height: auto;
-      border-radius: 8px;
+    display: flex;
+      align-items: center;  /* alinha imagem e texto verticalmente */
+      gap: 15px;            /* espaçamento entre imagem e texto */
 }
 
 .chamada{
