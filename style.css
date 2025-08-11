@@ -25,7 +25,7 @@ h8{
 .bslogo{
       scale: 20px;
       border-radius: 8px;
-      justify-content: left;
+      justify-content: auto;
        margin:50px;
        padding-left:20px;
     padding-right:20px;
