@@ -120,3 +120,19 @@ border:1px solid grey;
 .categoria h7{
     color:aliceblue;
 }
+
+.supercell{
+       padding-bottom:80px;
+    padding-top:80px;
+    display:flex;
+    justify-content:center;
+}
+
+.supercell-texto{
+     gap: 50px;
+margin-right: 5%;
+}
+
+h9{
+    font-size: 90px;
+}
