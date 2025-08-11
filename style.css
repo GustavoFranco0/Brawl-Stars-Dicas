@@ -13,10 +13,10 @@ header{
     color:white;
 }
 h8{
-    font-size:110px;
+    font-size:100px;
     padding-left:20px;
     padding-right:20px;
-    margin:50px;
+    margin:60px;
       display: flex;
       justify-content: center; /* centraliza horizontal */
       gap: 15px;            /* espaçamento entre imagem e texto */
