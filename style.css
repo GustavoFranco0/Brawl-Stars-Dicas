@@ -27,6 +27,7 @@ h8{
     max-width: 150px;
       height: auto;
       border-radius: 8px;
+      justify-content: left;
 }
 
 .chamada{
