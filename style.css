@@ -3,6 +3,7 @@ body{
     background: rgb(15,135,156);
     margin:0px;
     font-family: "Anton", sans-serif;
+    margin-bottom: 100px;
 }
 
 header{
@@ -101,6 +102,7 @@ h7{
 .categoria{
     padding-left:20px;
     padding-right:20px;
+    margin-top:50px;
 }
 
 
