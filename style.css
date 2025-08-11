@@ -93,10 +93,6 @@ h7{
 }
 
 
-img{
-    height:300px;
-}
-
 .categoria-videos{
     display:flex;
     overflow-x: auto;
@@ -107,3 +103,8 @@ img{
     padding-right:20px;
 }
 
+
+.categoria-videos img{
+opacity:0.5;
+height:300px;
+}
