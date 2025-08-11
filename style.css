@@ -12,22 +12,12 @@ header{
     font-size:32px;
     color:white;
 }
-h8{
-    font-size:100px;
-    padding-left:20px;
-    padding-right:20px;
-    margin:60px;
-      display: flex;
-      justify-content: center; /* centraliza horizontal */
-      gap: 15px;            /* espaçamento entre imagem e texto */
-}
 
 .bslogo{
-      border-radius: 8px;
-      justify-content: auto;
-       margin-top :1%;
-       padding-left:20px;
-    padding-right:20px;
+       padding-bottom:80px;
+    padding-top:80px;
+    display:flex;
+    justify-content:center;
 }
 
 .bslogo-texto{
