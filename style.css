@@ -25,7 +25,7 @@ h8{
 .bslogo{
     <align-self: start;
     max-width: 50px;
-      height: auto;
+      height:50px;
       border-radius: 8px;
       justify-content: left;
 }
