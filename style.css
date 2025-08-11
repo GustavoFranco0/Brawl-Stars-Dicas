@@ -160,3 +160,16 @@ height:300px;
 opacity:1.0;
 border:1px solid grey;
 }
+
+.Elprimo{
+    height:150px;
+    padding-bottom:80px;
+    padding-top:80px;
+    display:flex;
+    justify-content:center;
+}
+
+.Elprimo-texto{
+     gap: 50px;
+margin-right: 5%;
+}
