@@ -108,3 +108,8 @@ h7{
 opacity:9.0;
 height:300px;
 }
+
+.categoria-videos img:hover{
+opacity:1.0;
+border:1px
+}
