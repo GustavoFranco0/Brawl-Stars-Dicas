@@ -23,10 +23,12 @@ h8{
 }
 
 .bslogo{
-   
-      height:20px;
+      scale: 20px;
       border-radius: 8px;
       justify-content: left;
+       margin:50px;
+       padding-left:20px;
+    padding-right:20px;
 }
 
 .chamada{
