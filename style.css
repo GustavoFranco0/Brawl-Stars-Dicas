@@ -22,13 +22,19 @@ h8{
       gap: 15px;            /* espaçamento entre imagem e texto */
 }
 
-img class=bslogo{
+.bslogo{
       border-radius: 8px;
       justify-content: auto;
        margin-top :20px;
        padding-left:20px;
     padding-right:20px;
 }
+
+.bslogo-texto{
+margin-right: 5%;
+}
+
+
 
 .chamada{
     background:rgb(2, 172, 172);
