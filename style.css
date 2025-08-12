@@ -176,3 +176,9 @@ margin-right: 5%;
 h10{
     font-size:30px;
 }
+
+.primo-voz{
+    display:flex;
+    overflow-x: auto;
+    gap: 15px;
+}
