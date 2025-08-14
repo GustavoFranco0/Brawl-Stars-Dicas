@@ -186,3 +186,12 @@ h10{
  h11{
     color:azure:
 }
+.favoritos img{
+opacity:0.50;
+height:300px;
+}
+
+.favoritos img:hover{
+opacity:1.0;
+border:1px solid grey;
+}
