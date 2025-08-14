@@ -177,21 +177,24 @@ h10{
     font-size:30px;
 }
 
-.favoritos{
+.categoria-favoritos{
+    display:flex;
+    overflow-x: auto;
+    gap: 15px;
+}
+.jogos{
     padding-left:20px;
     padding-right:20px;
     margin-top:50px;
 }
 
- h11{
-    color:azure:
-}
-.favoritos img{
+
+.categoria-favoritos img{
 opacity:0.50;
 height:300px;
 }
 
-.favoritos img:hover{
+.categoria-favoritos img:hover{
 opacity:1.0;
 border:1px solid grey;
 }
